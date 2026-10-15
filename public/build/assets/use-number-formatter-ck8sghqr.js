@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";import{r as n}from"./trans-URa6mJZZ.js";import{t as r}from"./NumberFormatter-CHYrjPj-.js";var i=e(t());function a(e={}){let{localeCode:t}=n();return(0,i.useMemo)(()=>new r(t,e),[t,e])}export{a as t};

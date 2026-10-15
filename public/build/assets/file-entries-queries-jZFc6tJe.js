@@ -1,0 +1,1 @@
+import{i as e}from"./query-client-DHJgldd9.js";import{t}from"./queryOptions-Dfvzj6n2.js";import{t as n}from"./mutationOptions-Dfvzj6n2.js";import{i as r,l as i}from"./files-DMzxe2dg.js";var a=[`file-entries`],o=e=>t({queryKey:[...a,e],queryFn:()=>i(e)}),s=n({mutationFn:e=>r(e),onSuccess:()=>{e.invalidateQueries({queryKey:a})}});export{o as n,s as t};

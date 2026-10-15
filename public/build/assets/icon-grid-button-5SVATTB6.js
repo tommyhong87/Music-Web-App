@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{t}from"./cn-CSGDXSqz.js";var n=e();function r({className:e,children:r,...i}){return(0,n.jsx)(`button`,{className:t(`flex size-14 min-w-0 flex-col items-center justify-center overflow-hidden rounded-md bg-secondary/50 transition-colors hover:bg-secondary`,e),...i,children:r})}export{r as t};

@@ -1,0 +1,1 @@
+var e={orderBy:`likes.created_at`,orderDir:`desc`};export{e as t};

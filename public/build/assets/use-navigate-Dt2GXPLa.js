@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";import{c as n,d as r,h as i,v as a}from"./chunk-62JRHF6Z-CSJ98fud.js";var o=e(t());function s(){let e=a(),t=i();return(0,o.useCallback)((i,a)=>{let o=n(t)===n(r(i,t.pathname));e(i,{...a,replace:a?.replace!==!1&&o})},[e,t])}export{s as t};

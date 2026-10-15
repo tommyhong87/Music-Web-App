@@ -1,0 +1,1 @@
+var e=`album`;export{e as t};

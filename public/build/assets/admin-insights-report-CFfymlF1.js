@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{b as t}from"./chunk-62JRHF6Z-CSJ98fud.js";import{t as n}from"./insights-report-charts-D1tyM76f.js";var r=e();function i(){let{dateRange:e}=t();return(0,r.jsx)(n,{dateRange:e,model:`track_play=0`,showTracks:!0,showArtistsAndAlbums:!0})}export{i as Component};

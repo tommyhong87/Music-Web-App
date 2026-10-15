@@ -1,0 +1,1 @@
+function e(e){return/(?:\.([^.]+))?$/.exec(e)?.[1]||``}export{e as t};

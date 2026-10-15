@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{t}from"./message-BCKcasPr.js";import{t as n}from"./downloaded-media-items-tab-XvI381vR.js";var r=e(),i={"lastSyncedAt:desc":t(`Recently added`),"name:asc":t(`A-Z`),"release_date:desc":t(`Release date`)};function a(){return(0,r.jsx)(n,{sortItems:i,type:`album`})}export{a as Component};

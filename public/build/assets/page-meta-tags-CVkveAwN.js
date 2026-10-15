@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{t}from"./helmet-DyT07DeU.js";import{t as n}from"./default-meta-tags-BcwieXLj.js";var r=e();function i({query:e,data:i}){return i||=e?.data,i?.seoTags?(0,r.jsx)(t,{tags:i.seoTags}):(0,r.jsx)(n,{})}export{i as t};

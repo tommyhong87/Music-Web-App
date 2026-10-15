@@ -1,0 +1,1 @@
+import{t as e}from"./use-media-query-DYb8EAt5.js";function t(){return e(`((pointer: coarse))`)}export{t};

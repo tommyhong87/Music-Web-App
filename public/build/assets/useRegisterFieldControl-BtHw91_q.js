@@ -1,0 +1,1 @@
+import{f as e,m as t}from"./cn-CSGDXSqz.js";import{h as n}from"./hook-form-2sTzWnKy.js";function r(r,i,a,o,s=!0,c){let{registerFieldControl:l}=n(),u=t(()=>Symbol());e(()=>{let e=u.current;if(!s){l(e,void 0);return}l(e,{controlRef:r,getValue:o,id:i,name:c,value:a})},[r,s,o,i,c,l,u,a]),e(()=>{let e=u.current;return()=>{l(e,void 0)}},[l,u])}export{r as t};

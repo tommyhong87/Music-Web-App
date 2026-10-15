@@ -1,0 +1,1 @@
+import{i as e}from"./bootstrap-data-store-BvVxFPEG.js";function t(){return e(e=>e.data.userArtists)}export{t};

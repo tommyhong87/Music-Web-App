@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";import{t as n}from"./color-scheme-provider-lmd9Z-Q5.js";var r=e(t());function i(){let{colorScheme:e}=(0,r.use)(n);return e===`dark`}export{i as t};

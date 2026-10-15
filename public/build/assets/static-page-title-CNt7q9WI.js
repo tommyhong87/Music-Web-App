@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{t}from"./use-settings-BUYgTVo1.js";import{t as n}from"./helmet-DyT07DeU.js";var r=e();function i({children:e}){let{branding:{site_name:i}}=t();return(0,r.jsx)(n,{children:e?(0,r.jsxs)(`title`,{children:[e,` - `,i]}):void 0})}export{i as t};

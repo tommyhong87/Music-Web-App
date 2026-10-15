@@ -1,0 +1,1 @@
+import{r as e}from"./query-client-DHJgldd9.js";var t=(t,n,r)=>e({url:`/normalized-models/${t}`,method:`GET`,params:n},r),n=(t,n,r,i)=>e({url:`/normalized-models/${t}/${n}`,method:`GET`,params:r},i);export{n,t};

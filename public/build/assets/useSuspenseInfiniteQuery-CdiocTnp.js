@@ -1,0 +1,1 @@
+import{n as e,t}from"./useBaseQuery-CxLlHKQn.js";import{t as n}from"./infiniteQueryObserver-D0ofaAPQ.js";function r(r,i){return t({...r,enabled:!0,suspense:!0,throwOnError:e},n,i)}export{r as t};

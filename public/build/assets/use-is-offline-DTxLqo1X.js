@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";import{u as n}from"./query-client-DHJgldd9.js";var r=e(t());function i(){let[e,t]=(0,r.useState)(()=>!n.isOnline());return(0,r.useEffect)(()=>n.subscribe(t),[]),e}export{i as t};

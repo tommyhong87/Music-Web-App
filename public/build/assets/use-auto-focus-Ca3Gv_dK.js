@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";var n=e(t());function r({autoFocus:e,autoSelectText:t},r){let i=(0,n.useRef)(e);(0,n.useEffect)(()=>{i.current&&r.current&&requestAnimationFrame(()=>{r.current?.focus(),t&&r.current?.nodeName.toLowerCase()===`input`&&r.current.select()}),i.current=!1},[r,t])}export{r as t};

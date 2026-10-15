@@ -1,0 +1,1 @@
+import{n as e}from"./root-el-38EBcTQb.js";function t(t,n){return window.getComputedStyle(n??e).getPropertyValue(t)}export{t};

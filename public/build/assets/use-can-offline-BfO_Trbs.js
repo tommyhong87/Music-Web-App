@@ -1,0 +1,1 @@
+import{n as e}from"./use-auth-D0P84gA9.js";import{t}from"./use-settings-BUYgTVo1.js";function n(){let{player:n}=t(),{hasPermission:r}=e();return!!(n?.enable_offlining&&r(`music.offline`))}export{n as t};

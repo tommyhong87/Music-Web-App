@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{b as t}from"./chunk-62JRHF6Z-CSJ98fud.js";import{t as n}from"./access-token-panel-CuFxHWFG.js";var r=e();function i(){let e=t();return(0,r.jsx)(n,{user:e})}export{i as Component};

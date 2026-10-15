@@ -1,0 +1,1 @@
+var e=`artist`;export{e as t};

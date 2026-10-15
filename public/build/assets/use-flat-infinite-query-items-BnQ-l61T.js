@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";var n=e(t()),r=[];function i(e){return(0,n.useMemo)(()=>e.data?.pages.flatMap(e=>e.pagination.data)||r,[e.data?.pages])}export{i as t};

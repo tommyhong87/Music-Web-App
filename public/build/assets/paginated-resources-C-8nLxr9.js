@@ -1,0 +1,1 @@
+import"./rolldown-runtime-B0Z9INg1.js";import{$r as e}from"./icons-C6E7t4fF.js";import"./query-client-DHJgldd9.js";e();var t=(e,t,n)=>{let r=n?[...n]:e.split(`/`);return t&&r.push(t),r};export{t};

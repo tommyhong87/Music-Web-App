@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";import{t as n}from"./sort-array-of-objects-FbR0YwFk.js";var r=e(t());function i(e){let[t,i]=(0,r.useState)({});return{data:(0,r.useMemo)(()=>e?t?.orderBy?n([...e],t.orderBy,t.orderDir):e:[],[t,e]),sortDescriptor:t,onSortChange:i}}export{i as t};

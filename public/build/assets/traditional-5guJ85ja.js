@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";import{t as n}from"./with-selector-C_mpLpO3.js";var r=e(t(),1),{useSyncExternalStoreWithSelector:i}=e(n(),1).default,a=e=>e;function o(e,t=a,n){let o=i(e.subscribe,e.getState,e.getInitialState,t,n);return r.useDebugValue(o),o}export{o as t};

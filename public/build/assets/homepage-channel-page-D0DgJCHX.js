@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{t}from"./use-settings-BUYgTVo1.js";import{Component as n}from"./channel-page-XAlg60z4.js";var r=e();function i(){let{homepage:e}=t(),i=`discover`;return e.type.startsWith(`channel`)&&e.value&&(i=e.value),(0,r.jsx)(n,{slugOrId:i})}export{i as Component};

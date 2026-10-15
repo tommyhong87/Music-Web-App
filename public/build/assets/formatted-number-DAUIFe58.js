@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t,Qr as n}from"./icons-C6E7t4fF.js";import{n as r}from"./trans-URa6mJZZ.js";import{t as i}from"./use-number-formatter-ck8sghqr.js";var a=e(t()),o=n(),s=(0,a.memo)(({value:e,...t})=>{let n=i(t);return isNaN(e)&&(e=0),(0,o.jsx)(a.Fragment,{children:n.format(e)})},r);export{s as t};

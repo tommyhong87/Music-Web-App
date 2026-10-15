@@ -1,0 +1,1 @@
+import"./rolldown-runtime-B0Z9INg1.js";import{$r as e,Qr as t}from"./icons-C6E7t4fF.js";import{t as n}from"./trans-URa6mJZZ.js";e();var r=t();function i({type:e}){return(0,r.jsx)(`span`,{className:`capitalize`,children:(0,r.jsx)(n,{message:e.replace(`-`,` `)})})}export{i as t};

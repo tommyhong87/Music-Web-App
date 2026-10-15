@@ -1,0 +1,1 @@
+import{t as e}from"./use-user-artists-DNhYrI7R.js";function t(){return e()?.find(e=>e.role===`artist`)}export{t};

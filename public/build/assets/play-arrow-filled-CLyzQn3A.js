@@ -1,0 +1,1 @@
+import{$ as e,Qr as t}from"./icons-C6E7t4fF.js";var n=t(),r=e((0,n.jsx)(`path`,{d:`M8 19V5l11 7Z`}),`PlayArrowFilled`);export{r as t};

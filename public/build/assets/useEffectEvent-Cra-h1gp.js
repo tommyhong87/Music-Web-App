@@ -1,0 +1,1 @@
+import{a as e}from"./rolldown-runtime-B0Z9INg1.js";import{$r as t}from"./icons-C6E7t4fF.js";import{s as n}from"./DOMFunctions-JSZJjHOX.js";var r=e(t(),1),i=r.useInsertionEffect??n;function a(e){let t=(0,r.useRef)(null);return i(()=>{t.current=e},[e]),(0,r.useCallback)((...e)=>{let n=t.current;return n?.(...e)},[])}export{a as t};

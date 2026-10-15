@@ -1,0 +1,1 @@
+var e=`channel`;export{e as t};

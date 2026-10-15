@@ -1,0 +1,1 @@
+import{Qr as e}from"./icons-C6E7t4fF.js";import{b as t}from"./chunk-62JRHF6Z-CSJ98fud.js";import{a as n,n as r,r as i,t as a}from"./two-factor-panel-CdzPD-Ft.js";var o=e();function s(){let e=t();return(0,o.jsxs)(`div`,{children:[(0,o.jsx)(n,{}),(0,o.jsx)(a,{user:e}),(0,o.jsx)(r,{user:e}),(0,o.jsx)(i,{})]})}export{s as Component};

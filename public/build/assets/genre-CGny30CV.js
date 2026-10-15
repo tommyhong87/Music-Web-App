@@ -1,0 +1,1 @@
+var e=`genre`;export{e as t};

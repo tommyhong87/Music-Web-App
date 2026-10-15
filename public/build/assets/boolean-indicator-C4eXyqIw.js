@@ -1,0 +1,1 @@
+import{Qr as e,jr as t,nt as n}from"./icons-C6E7t4fF.js";var r=e();function i({value:e}){return e?(0,r.jsx)(t,{className:`size-4 text-positive`}):(0,r.jsx)(n,{className:`size-4 text-destructive`})}export{i as t};
